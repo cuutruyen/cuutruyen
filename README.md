@@ -1,4 +1,12 @@
-### Hi there 👋
+### Trạng thái máy chủ & hướng dẫn truy cập Cứu Truyện khi bị chặn
+
+https://truycapcuutruyen.pages.dev
+
+### Các địa chỉ của Cứu Truyện
+
+https://cuutruyen.net
+
+https://cuutruyent9sv7.xyz
 
 <!--
 **cuutruyen/cuutruyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
